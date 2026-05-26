@@ -1,0 +1,70 @@
+baseURL = "https://jlmcnaughtonauthor.com/"
+languageCode = "en-us"
+title = "J.L. McNaughton"
+theme = "PaperMod"
+
+enableInlineShortcodes = true
+enableRobotsTXT = true
+buildDrafts = false
+buildFuture = false
+buildExpired = false
+
+pygmentsUseClasses = true
+
+[outputs]
+  home = ["HTML", "RSS"]
+
+[params]
+  env = "production"
+  description = "Official site of author J.L. McNaughton."
+  author = "J.L. McNaughton"
+  defaultTheme = "auto"
+  disableThemeToggle = false
+  ShowReadingTime = false
+  ShowShareButtons = false
+  ShowPostNavLinks = false
+  ShowBreadCrumbs = true
+  ShowCodeCopyButtons = false
+  ShowToc = false
+  comments = false
+
+  [params.profileMode]
+    enabled = true
+    title = "J.L. McNaughton"
+    subtitle = "Author"
+    imageUrl = "profile.jpg"
+    imageWidth = 220
+    imageHeight = 220
+    imageTitle = "J.L. McNaughton"
+    [[params.profileMode.buttons]]
+      name = "Books"
+      url = "books"
+    [[params.profileMode.buttons]]
+      name = "About"
+      url = "about"
+
+  [[params.socialIcons]]
+    name = "facebook"
+    url = "https://www.facebook.com/p/JL-Janet-McNaughton-100063642242646/"
+
+  [params.assets]
+    disableHLJS = true
+    disableFingerprinting = false
+
+[menu]
+  [[menu.main]]
+    identifier = "books"
+    name = "Books"
+    url = "/books/"
+    weight = 10
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about/"
+    weight = 20
+
+[markup]
+  [markup.goldmark.renderer]
+    unsafe = true
+  [markup.highlight]
+    noClasses = false
