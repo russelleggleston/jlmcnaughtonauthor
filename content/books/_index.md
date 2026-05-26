@@ -5,4 +5,4 @@ ShowToc: false
 ShowBreadCrumbs: false
 ---
 
-Books by J.L. McNaughton.
+Sci-fi fantasy by J.L. McNaughton.

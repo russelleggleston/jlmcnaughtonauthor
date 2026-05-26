@@ -2,6 +2,4 @@
 title: "J.L. McNaughton"
 ---
 
-Welcome. This is the home of author J.L. McNaughton's books and writing.
-
-> **TBD** — replace this paragraph with a short author tagline. The Profile Mode landing shows your photo (place at `static/profile.jpg`), name, subtitle, and the Books / About buttons configured in `hugo.toml`.
+Author of *Before The Dawn* — the first novel in an epic sci-fi fantasy trilogy about James, a shy teenage misfit pulled from his world into Terrain.

@@ -6,10 +6,12 @@ ShowToc: false
 ShowBreadCrumbs: false
 ---
 
-**TBD — replace with author bio.**
+J.L. (Janet) McNaughton is a sci-fi fantasy novelist based in Northern British Columbia. Her debut novel, *Before The Dawn*, was published in 2014 by FriesenPress — the first in a planned trilogy following James, a shy teenage misfit, on his journey into the fantasy world of Terrain.
 
-A paragraph or two about J.L. McNaughton: where they're from, what they write, what inspires them, and anything else readers should know. Keep it warm and personal — this is often the first page new readers land on after the home page.
+The book was more than three decades in the making, written while raising two children, working full time, and completing a university degree. Janet launched *Before The Dawn* in Fort Nelson and Fort St. John, BC, and on Canada's east coast at Halifax's Humani-T Cafe.
+
+> *Draft bio — Janet, please edit to taste.*
 
 ## Contact
 
-You can reach J.L. McNaughton via [Facebook](https://www.facebook.com/p/JL-Janet-McNaughton-100063642242646/).
+You can reach Janet at [janet@mega-media.ca](mailto:janet@mega-media.ca), or via her [Facebook page](https://www.facebook.com/p/JL-Janet-McNaughton-100063642242646/).

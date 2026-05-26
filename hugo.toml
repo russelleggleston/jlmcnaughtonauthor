@@ -16,7 +16,7 @@ pygmentsUseClasses = true
 
 [params]
   env = "production"
-  description = "Official site of author J.L. McNaughton."
+  description = "Official site of J.L. McNaughton, sci-fi fantasy novelist and author of Before The Dawn."
   author = "J.L. McNaughton"
   defaultTheme = "auto"
   disableThemeToggle = false
@@ -31,7 +31,7 @@ pygmentsUseClasses = true
   [params.profileMode]
     enabled = true
     title = "J.L. McNaughton"
-    subtitle = "Author"
+    subtitle = "Sci-fi fantasy novelist"
     imageUrl = "profile.jpg"
     imageWidth = 220
     imageHeight = 220
